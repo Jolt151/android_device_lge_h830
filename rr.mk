@@ -1,4 +1,4 @@
-$(call inherit-product, device/lge/h830/full_h830.mk)
+$(call inherit-product, device/lge/rr_h830/full_h830.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/rr/config/common_full_phone.mk)
